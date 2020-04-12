@@ -7,12 +7,27 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Profiling for PG owner and for PG Occupant.  
+
 ### Features
-Include Features here
+1. Add PG, edit, delete PG details
+2. PG listing owner wise
+3. PG listing near by PG search
+4. Booking PG/Check out
+
+Web Admin features
+1. PG owner approved by owner
+2. Add, edit , delete users
+3. Area wise PG owner and Tenant listing
+
 ### Technologies
-Include Technologies here
+1. Java
+2. Spring Boot
+3. MySQL
+4. Thymeleaf templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to maintain diffrent profile through user login 
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/sM7e8dux/liftoff-project
