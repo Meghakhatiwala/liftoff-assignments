@@ -7,7 +7,9 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Profiling for PG owner and for PG Occupant.  
+This project is about maintaining Paying Guest details. The end user can search for paying guest availability based on their requirements. The web admin can approve the paying guest owner and the details submitted. Only approved paying guest locations will be available for search to end users.
+
+This idea came up from my siter's daughter's search for PG during her college admission.
 
 ### Features
 1. Add PG, edit, delete PG details
