@@ -7,20 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-This project is about maintaining Paying Guest details. The end user can search for paying guest availability based on their requirements. The web admin can approve the paying guest owner and the details submitted. Only approved paying guest locations will be available for search to end users.
+This project is about maintaining Receipe website. u can login and sign up. add, edit your receipe. u can search receipe by cuisine (like indian, mexican etc). receipe can be uploded only after creating account. anybody can serch for receipes. 
 
-This idea came up from my siter's daughter's search for PG during her college admission.
+As mother of two kids always thinking of different food varieties that my kids love and healthy too. This could help everyone especially other mothers too for search and share their recipes and that inspired me to come up with this idea. 
 
 ### Features
-1. Add PG, edit, delete PG details
-2. PG listing owner wise
-3. PG listing near by PG search
-4. Booking PG/Check out
+1. Recipes can be uploaded only after creating an account
+2. User can add, edit or delete recipe details
+3. User can search recipes without login
 
 Web Admin features
-1. PG owner approved by owner
-2. Add, edit , delete users
-3. Area wise PG owner and Tenant listing
+1. Admin can approve, add and delete the recipe
+2. Only approved recipes will be available for search
 
 ### Technologies
 1. Java
@@ -29,7 +27,8 @@ Web Admin features
 4. Thymeleaf templates
 
 ### What I'll Have to Learn
-How to maintain diffrent profile through user login 
+1. How to maintain login and sign up
+2. Feature of uploding images of recipes
 
 ### Project Tracker
 https://trello.com/b/sM7e8dux/liftoff-project
