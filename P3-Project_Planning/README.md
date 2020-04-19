@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 1. Wireframe image 1 shows the main page of website.
- a. ![Main Page](/Wireframe1.jpg)
+ a. ![Main Page](/P3-Project_Planning/Wireframe1.jpg)
 
 ### Project Tracker
 
