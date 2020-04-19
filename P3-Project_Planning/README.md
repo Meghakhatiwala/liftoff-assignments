@@ -9,7 +9,13 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 1. Wireframe image 1 shows the main page of website.
- a. ![Main Page](/P3-Project_Planning/Wireframe1.jpg)
+![Main Page](/P3-Project_Planning/Wireframe1.jpg)
+
+2. Wireframe image 2 shows sign in and sign up pages.
+![Sign In/Sign Up Pages](/P3-Project_Planning/Wireframe2.jpg)
+
+3. Wireframe image 3 shows web admin log in page and approval page.
+![Web admin pages](/P3-Project_Planning/Wireframe3.jpg)
 
 ### Project Tracker
 
