@@ -21,7 +21,7 @@ For this assignment, you'll create some initial plans for your project.
 ![user page](/P4-Project_Planning/Wireframe4.jpg)
 
 5. Wireframe image 5 shows page for user to add new recipe.
-![user page] (/P5-Project_Planning/Wireframe5.jpg)
+![user page](/P5-Project_Planning/Wireframe5.jpg)
 
 
 ### Project Tracker
