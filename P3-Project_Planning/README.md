@@ -17,6 +17,10 @@ For this assignment, you'll create some initial plans for your project.
 3. Wireframe image 3 shows web admin log in page and approval page.
 ![Web admin pages](/P3-Project_Planning/Wireframe3.jpg)
 
+4. Wireframe image 4 shows main page for user.
+![user page](/P3-Project_Planning/Wireframe4.jpg)
+
+
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
