@@ -18,7 +18,10 @@ For this assignment, you'll create some initial plans for your project.
 ![Web admin pages](/P3-Project_Planning/Wireframe3.jpg)
 
 4. Wireframe image 4 shows main page for user.
-![user page](/P3-Project_Planning/Wireframe4.jpg)
+![user page](/P4-Project_Planning/Wireframe4.jpg)
+
+5. Wireframe image 5 shows page for user to add new recipe.
+![user page] (/P5 Project_Planning/Wireframe5.jpg)
 
 
 ### Project Tracker
